@@ -1,6 +1,7 @@
 # Apigee X and Cloud Run
 
-Reference Implementation for how to front a Cloud Run service with Apigee X.
+Based on [Devrel Reference Implementation](https://github.com/apigee/devrel/tree/main/references/cloud-run) for how to front a Cloud Run service with Apigee X.
+Modified code to use Cloud Build to deploy APIGEE proxy
 
 ## Compatibility
 
